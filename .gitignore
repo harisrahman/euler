@@ -1,0 +1,3 @@
+*.exe
+cpp/**/*.js
+python/**/*.js
